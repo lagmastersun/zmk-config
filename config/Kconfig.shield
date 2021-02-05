@@ -1,5 +1,5 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_QHI_MILK
+config SHIELD_TIDBIT_LEFT
    def_bool $(shields_list_contains,qhi_milk)
